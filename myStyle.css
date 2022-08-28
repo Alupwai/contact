@@ -1,0 +1,17 @@
+#all {
+  width: 800px;
+  height: 260px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: pink;
+  border: 2px solid black;
+}
+
+#header {
+  border-bottom: 2px solid black;
+  text-align: center;
+  width: 800px;
+  height: 100px;
+  padding-top: 1em;
+}
+
